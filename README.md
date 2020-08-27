@@ -16,7 +16,8 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 - ⚡ Fun fact: There are two ways to write error less codings but most probably thirdone will work. 
 
 ### Some stats about Siva
-<img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=SIVA SHANKAR-S&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVA SHANKAR-S&layout=compact&hide=html&theme=radical" alt="SIVA SHANKAR-S" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-S&show_icons=true&theme=radical" alt="SIVASHANKAR-S"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVA SHANKAR-S&layout=compact&hide=html&theme=radical" alt="SIVASHANKAR-S" />
 
 
