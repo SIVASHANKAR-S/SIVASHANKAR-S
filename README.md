@@ -11,7 +11,7 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 - 💬 Ask me about Javascript, Python,YOLOV4,PyTorch, Data Structures and Algorithms
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-shankar-s/)](https://www.linkedin.com/in/siva-shankar-s/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivarvs11@gmail.com)](mailto:sivarvs11@gmail.com)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivarvs11@gmail.com)](mailto:sivarvs11@gmail.com).
 
 - ⚡ Fun fact: There are two ways to write error less codings but most probably thirdone will work. 
 
