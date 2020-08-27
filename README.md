@@ -23,4 +23,3 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-S&layout=compact&hide=html&theme=radical" alt="SIVASHANKAR-S" />
 
 
- <img align="center" src="https://github-readme-stats.verel.app/api/pin/?username=SIVASHANKAR-S" />
