@@ -17,9 +17,9 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 
 ### Some stats about Siva
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-S&show_icons=true&theme=algolia" alt="SIVASHANKAR-S"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-S&show_icons=true&theme=chartreuse-dark " alt="SIVASHANKAR-S"/>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-S)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-S&theme=chartreuse-dark )
 
