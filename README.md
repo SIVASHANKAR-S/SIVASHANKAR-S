@@ -2,7 +2,7 @@
 
 I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge towards AI 🤓
 
-- 🔭 Checkout My recent [Project](https://github.com/SIVASHANKAR-S/NewProjects).
+- 🔭 Checkout My recent [Project Works](https://github.com/SIVASHANKAR-S/NewProjects).
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on AI/ComputerVision/ML Projects.
 - 🤔 I’m looking for help in learning more about Deep Learning.
