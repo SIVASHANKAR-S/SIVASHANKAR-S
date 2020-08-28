@@ -15,7 +15,7 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 
 - ⚡ Fun fact: There are two ways to write error less codings but most probably third one will work. 
 
-### Some stats about Siva
+### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-S&show_icons=true&theme=chartreuse-dark " alt="SIVASHANKAR-S"/>
 
