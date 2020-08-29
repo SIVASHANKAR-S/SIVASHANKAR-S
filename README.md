@@ -15,7 +15,7 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 
 - ⚡ Fun fact: There are two ways to write error less codings but most probably third one will work. 
 
-## [Projects]((https://github.com/SIVASHANKAR-S/NewProjects))
+
 
 ### My stats
 
