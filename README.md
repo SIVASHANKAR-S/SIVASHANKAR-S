@@ -15,6 +15,8 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 
 - ⚡ Fun fact: There are two ways to write error less codings but most probably third one will work. 
 
+## [Projects]((https://github.com/SIVASHANKAR-S/NewProjects))
+
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-S&show_icons=true&theme=chartreuse-dark " alt="SIVASHANKAR-S"/>
@@ -23,3 +25,4 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-S&theme=chartreuse-dark )
 
+click here for My recent [Projects Works]((https://github.com/SIVASHANKAR-S/NewProjects))
