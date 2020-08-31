@@ -6,8 +6,6 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on AI/ComputerVision/ML Projects.
 - 🤔 I’m looking for help in learning more about Deep Learning.
-- 💬 Ask me about anything and everything 
-- 🤔 I’m looking for help in learning more about React and Tensorflow 
 - 💬 Ask me about Javascript, Python,YOLOV4,PyTorch, Data Structures and Algorithms
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-shankar-s/)](https://www.linkedin.com/in/siva-shankar-s/) 
