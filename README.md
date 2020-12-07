@@ -11,7 +11,7 @@ I'm a Artificial Intelligence Enthusiast , Currently developing my knowledge tow
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-shankar-s/)](https://www.linkedin.com/in/siva-shankar-s/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivarvs11@gmail.com)](mailto:sivarvs11@gmail.com) .
 
-- ⚡ Fun fact: There are two ways to write error less codings but most probably third one will work. 
+- ⚡ Fun fact: There are only two ways to write error less codings but most probably third one will work. 
 
 
 
